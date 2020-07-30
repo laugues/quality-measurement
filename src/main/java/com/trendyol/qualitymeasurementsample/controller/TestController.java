@@ -17,5 +17,7 @@ public class TestController {
 
     public void empty_function_with_bad_naming(){
         //
+        String unusedVariable = "";
+        return;
     }
 }
